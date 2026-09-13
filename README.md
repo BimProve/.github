@@ -53,14 +53,12 @@ We provide development services tailored to BIM/AEC organizations:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/API-REST-009688?style=for-the-badge)
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ## Get in touch
 
 Interested in BIM development, automation, or digital delivery collaboration?
+- **Link:** [BIMPROVE](https://bim-prove.com)
+- **LinkedIn:** [BIMPROVE](https://www.linkedin.com/company/bimprove/home/)
 
-- Open an issue or discussion in this repository
-- Connect with us through our GitHub organization: [BIMPROVE](https://github.com/BimProve)
+Want to connect personally? Drop me direct message:
+- **LinkedIn:** [Nikita Snizhko](https://www.linkedin.com/in/nikita-snizhko/)
+- **Email:** s.nikita.work@gmail.com
