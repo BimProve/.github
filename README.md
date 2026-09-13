@@ -63,4 +63,4 @@ We provide development services tailored to BIM/AEC organizations:
 Interested in BIM development, automation, or digital delivery collaboration?
 
 - Open an issue or discussion in this repository
-- Connect with us through our GitHub organization: [BimProve](https://github.com/BimProve)
+- Connect with us through our GitHub organization: [BIMPROVE](https://github.com/BimProve)
